@@ -1,0 +1,3 @@
+runtime: nodejs20
+entrypoint: npm start
+env: standard
